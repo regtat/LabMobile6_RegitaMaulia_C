@@ -22,9 +22,9 @@ Tambahkan ion-chip, lalu tambahkan color ‘secondary’ pada chip agar berwarna
 
 ![ion-chip phone-portrait](https://github.com/user-attachments/assets/07755b52-53cd-4f81-8d44-49a036c16511)
 
-![row](https://github.com/user-attachments/assets/4cd509a5-0d8f-4714-9f45-cd62a9d753d5)
-
 Tambahkan ion-row dengan class berikut <ion-row class="ion-justify-content-center"> agar ion-chip berada di tengah halaman.
+
+![row](https://github.com/user-attachments/assets/4cd509a5-0d8f-4714-9f45-cd62a9d753d5)
 
 Tambahkan [disabled]="true" agar ion-chip tidak bisa diklik / bersifat disabled, seperti berikut
 <ion-chip [disabled]="true" color="secondary">
