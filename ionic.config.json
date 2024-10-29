@@ -1,0 +1,7 @@
+{
+  "name": "LabMobile6_RegitaMaulia_C",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
