@@ -12,7 +12,6 @@ Tambahkan warna ‘secondary’ pada card. Ubah posisi text pada card header men
 
 Gunakan ion-avatar, tambahkan flex item properties yaitu ion-align-self-center agar avatar berada di tengah.
 
-
 Buat folder pict pada assets, lalu pindahkan image yang diinginkan ke dalam folder tersebut.
 
 ![image](https://github.com/user-attachments/assets/b917204a-091d-4d67-977b-59ca7906090e)
@@ -20,13 +19,15 @@ Buat folder pict pada assets, lalu pindahkan image yang diinginkan ke dalam fold
 ![ion-chip](https://github.com/user-attachments/assets/10d1ccc3-9abd-4439-a9bf-6cb5d65941a0)
 
 Tambahkan ion-chip, lalu tambahkan color ‘secondary’ pada chip agar berwarna biru. Ubah icon menjadi phone-portrait agar ikon berubah menjadi seperti berikut
+
 ![ion-chip phone-portrait](https://github.com/user-attachments/assets/07755b52-53cd-4f81-8d44-49a036c16511)
 
 ![row](https://github.com/user-attachments/assets/4cd509a5-0d8f-4714-9f45-cd62a9d753d5)
+
 Tambahkan ion-row dengan class berikut <ion-row class="ion-justify-content-center"> agar ion-chip berada di tengah halaman.
 
-Tambahkan [disabled]="true" agar ion-chip tidak bisa diklik / bersifat disabled
-![disabled](https://github.com/user-attachments/assets/87d0e5b4-c3a9-4ff0-8484-95280cc48d68)
+Tambahkan [disabled]="true" agar ion-chip tidak bisa diklik / bersifat disabled, seperti berikut
+<ion-chip [disabled]="true" color="secondary">
 
 
 
