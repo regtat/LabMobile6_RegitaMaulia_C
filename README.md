@@ -10,8 +10,10 @@ Tambahkan warna ‘secondary’ pada card. Ubah posisi text pada card header men
 ## 3.	Tambahkan ion-avatar
 ![image](https://github.com/user-attachments/assets/0fa93346-2e96-4726-bd2c-bd66cac329a3)
 Gunakan ion-avatar, tambahkan flex item properties yaitu ion-align-self-center agar avatar berada di tengah.
-![image](https://github.com/user-attachments/assets/b917204a-091d-4d67-977b-59ca7906090e)
+
+
 Buat folder pict pada assets, lalu pindahkan image yang diinginkan ke dalam folder tersebut.
+![image](https://github.com/user-attachments/assets/b917204a-091d-4d67-977b-59ca7906090e)
 ## 4.	Tambahkan ion-chip
 ![ion-chip](https://github.com/user-attachments/assets/10d1ccc3-9abd-4439-a9bf-6cb5d65941a0)
 
